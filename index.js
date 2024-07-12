@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["Listenning to /website TO GET OUR OFFICIAL WEBSITE"];
 
 
 let currentIndex = 0;
