@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["GAMETIME DEVELOPEMENT™","/website TO GET OUR OFFICIAL WEBSITE LINK!"];
 
 
 let currentIndex = 0;
